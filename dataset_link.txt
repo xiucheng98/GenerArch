@@ -1,0 +1,7 @@
+2d normal dataset: https://www.kaggle.com/datasets/xiuchengzhu/2d-normal-dataset
+
+2d polluted dataset: https://www.kaggle.com/datasets/xiuchengzhu/2d-dataset
+
+3d normal dataset: https://www.kaggle.com/datasets/xiuchengzhu/3d-normal-dataset
+
+3d polluted dataset: https://www.kaggle.com/datasets/xiuchengzhu/3d-polluted-dataset
